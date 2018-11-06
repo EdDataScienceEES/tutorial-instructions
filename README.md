@@ -1,5 +1,5 @@
-# challenge5-instructions
-## Instructions for Tutorial Challenge
+# tutorial-instructions
+## Instructions for Tutorial Assignment
 
 The key assignment for the Data Science course is creating your own tutorial. Your tutorial has to communicate a specific skill - you can choose the level at which you pitch your tutorial and how advanced or introductory it is. You can create "part 2" tutorials where "part 1" is an existing Coding Club tutorial.
 
