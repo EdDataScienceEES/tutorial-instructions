@@ -22,4 +22,8 @@ https://ourcodingclub.github.io/2017/11/23/tutorials.html - Coding Club tutorial
 https://ourcodingclub.github.io/tutorials/ - all the other Coding Club tutorials
 https://github.com/ourcodingclub/ourcodingclub.github.io - the repository behind the Coding Club website - here you can see the Markdown code for how the tutorials were formatted
 
+__Examples of tutorials made by DS students last year:__
+https://eddatascienceees.github.io/tutorial-assignment-beverlytan/ - Creating a repository with a clear structure by Beverly Tan
+https://ourcodingclub.github.io/2019/03/26/spatial.html - Intro to Spatial Analysis in R by Maude Grenier
+
 All the other useful links we have shared with previous challenges and from the course reading - think of the tutorials you have done in the past - what did you like about those tutorials, what didn't work so well and could be improved.
