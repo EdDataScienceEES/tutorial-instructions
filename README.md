@@ -3,7 +3,7 @@
 
 The key final assignment for the Data Science course is to create your own tutorial. Your tutorial has to communicate a specific quantitative skill - you can choose the level at which you pitch your tutorial and how advanced or introductory it is. You can create "part 2" tutorials where "part 1" is an existing Coding Club tutorial.
 
-You are encouraged to add your peers to your tutorial development tutorials so that you can exchange feedback - remember that the best way to check if your tutorial makes sense is to have someone that is not you go through it.
+You are encouraged to add your peers to your tutorial development repositories so that you can exchange feedback - remember that the best way to check if your tutorial makes sense is to have someone that is not you go through it.
 
 __Note that the deadline for this challenge is 12pm on 29th November 2019. Submission is via GitHub like with previous challenges, but you have to also submit a pdf version of your tutorial via Turnitin before 12pm on 29th November 2019. Your submission on GitHub will represent a repository that is also a website (the tutorial on making tutorials below explains how to turn a GitHub repo into a website) and you can just save a pdf of your website using `File/Export as pdf` when you've opened your repository website, you don't need to be separately generating a pdf through code unless you want to.__
 
@@ -15,7 +15,7 @@ __Marking criteria:__
 
 •	Reproducibility – Clear and logical structure to the tutorial that is easy to navigate with clear instructions. People can do the tutorial on their own, without assistance and without needing to pay for extra software, the code works and people can easily access any data needed to complete the tutorial. - 25%
 
-•	Creativity – A well-illustrated professionally designed tutorial with appropriate figures and diagrams. A creative and engaging approach to teaching the learning objectives. - 25%
+•	Creativity – A well-illustrated, professionally designed tutorial with appropriate figures and diagrams. A creative and engaging approach to teaching the learning objectives. - 25%
 
 __Useful links:__
 https://ourcodingclub.github.io/2017/11/23/tutorials.html - Coding Club tutorial on how to make tutorials
