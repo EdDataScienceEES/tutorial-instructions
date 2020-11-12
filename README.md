@@ -5,7 +5,7 @@ The key final assignment for the Data Science course is to create your own tutor
 
 You are encouraged to add your peers to your tutorial development repositories so that you can exchange feedback - remember that the best way to check if your tutorial makes sense is to have someone that is not you go through it.
 
-__Note that the deadline for this challenge is 12pm on 29th November 2019. Submission is via GitHub like with previous challenges, but you have to also submit a pdf version of your tutorial via Turnitin before 12pm on 29th November 2019. Your submission on GitHub will represent a repository that is also a website (the tutorial on making tutorials below explains how to turn a GitHub repo into a website) and you can just save a pdf of your website using `File/Export as pdf` when you've opened your repository website, you don't need to be separately generating a pdf through code unless you want to.__
+__Note that the deadline for this challenge is 12pm on 4th December 2020. Submission is via GitHub like with previous challenges, but you have to also submit a pdf version of your tutorial via Turnitin before 12pm on 4th December 2020. Your submission on GitHub will represent a repository that is also a website (the tutorial on making tutorials below explains how to turn a GitHub repo into a website) and you can just save a pdf of your website using `File/Export as pdf` when you've opened your repository website, you don't need to be separately generating a pdf through code unless you want to.__
 
 __Marking criteria:__
 
@@ -18,13 +18,13 @@ __Marking criteria:__
 •	Creativity – A well-illustrated, professionally designed tutorial with appropriate figures and diagrams. A creative and engaging approach to teaching the learning objectives. - 25%
 
 __Useful links:__
-- https://ourcodingclub.github.io/2017/11/23/tutorials.html - Coding Club tutorial on how to make tutorials
+- https://ourcodingclub.github.io/tutorials/tutorials/ - Coding Club tutorial on how to make tutorials
 - https://ourcodingclub.github.io/tutorials/ - all the other Coding Club tutorials
 - https://github.com/ourcodingclub/ourcodingclub.github.io - the repository behind the Coding Club website - here you can see the Markdown code for how the tutorials were formatted
 - https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf - markdown cheatsheet
 
-__Examples of tutorials made by DS students last year:__
+__Examples of tutorials made by DS students:__
 - https://eddatascienceees.github.io/tutorial-assignment-beverlytan/ - Creating a repository with a clear structure by Beverly Tan
-- https://ourcodingclub.github.io/2019/03/26/spatial.html - Intro to Spatial Analysis in R by Maude Grenier
+- https://ourcodingclub.github.io/tutorials/spatial/ - Intro to Spatial Analysis in R by Maude Grenier
 
 All the other useful links we have shared with previous challenges and from the course reading - think of the tutorials you have done in the past - what did you like about those tutorials, what didn't work so well and could be improved.
